@@ -4,4 +4,6 @@ The goal is to manage the fleet using visual components, furthermore, this tool 
 
 **Layers**  
 Based on Client's needs, I made three layers, to be shown on the map.
-Activity, Fleet, Inactive units  
+* Activity
+* Fleet
+* Inactive units  
