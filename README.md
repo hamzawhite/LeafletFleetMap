@@ -11,3 +11,6 @@ Based on Client's needs, I made three layers, to be shown on the map.
 * `Units`: Colored Markers to visualize the activity of each unit on the map
 * `Groups of units`: Clusters of units, easy way to group the units geographicaly.
 * `Inactive units`: Clusters of inactive units, useful to expose in just few seconds the inactive units for more than a certain time (customised)
+
+## Output
+Experiment with the result `map.html`, and be inspired!
